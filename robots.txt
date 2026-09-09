@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrmgraphic.netlify.app/sitemap.xml
